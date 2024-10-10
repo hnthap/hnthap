@@ -4,7 +4,7 @@ See me on [🟦 Kaggle](https://www.kaggle.com/huynhnhanthap) and [🤗 Hugging 
 
 ## Skills
 
-<!-- ### Languages -->
+### Languages
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -21,8 +21,7 @@ See me on [🟦 Kaggle](https://www.kaggle.com/huynhnhanthap) and [🤗 Hugging 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-skyblue?style=flat-square&logo=PowerShell&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-----
-<!-- ### Machine Learning -->
+### Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -30,15 +29,14 @@ See me on [🟦 Kaggle](https://www.kaggle.com/huynhnhanthap) and [🤗 Hugging 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-----
-<!-- ### Databases & Applications -->
+### Databases & Applications
 
+<!--Databases-->
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-5294E2?style=flat-square&logo=MSSQL&logoColor=white)
-
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-5294E2?style=flat-square&logo=MSSQL&logoColor=white)<!--Backend-->
 ![Nodejs](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=Express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
@@ -47,19 +45,17 @@ See me on [🟦 Kaggle](https://www.kaggle.com/huynhnhanthap) and [🤗 Hugging 
 ![dotenv](https://img.shields.io/badge/-.ENV-ECD53F?style=flat-square&logo=dotenv&logoColor=white)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=Expo&logoColor=white)<!-- ![Android](https://img.shields.io/badge/-Android-34A853?style=flat-square&logo=android&logoColor=white) -->
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=Expo&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![github actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
-
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)<!--Frontend-->
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white)
 ![ThreeJS](https://img.shields.io/badge/-ThreeJS-000000?style=flat-square&logo=Three.JS&logoColor=white)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-----
-<!-- ### Tools -->
+### Tools
 
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=VS%20Code&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
