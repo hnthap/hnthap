@@ -1,13 +1,13 @@
 <table>
   <tr>
-    <td rowspan="2">
+    <td width="60%" rowspan="2">
       <br/>
       <img alt="Profile view count" src="https://komarev.com/ghpvc/?username=hnthap&color=blue" />
       <h2> About </h2>
-      &nbsp; 👋 &nbsp; I'm <strong>Huynh Nhan Thap</strong>.<br/>
-      &nbsp; 🏫 &nbsp; Senior Student at the <a href="https://en.uit.edu.vn">VNU-HCM UIT</a>.</br>
-      &nbsp; 💻 &nbsp; My major is <strong>Computer Science</strong>.<br/>
-      &nbsp; 🧩 &nbsp; Interested in Machine Learning, Data Science and Frontend Development.<br/>
+      &nbsp; 👋 &nbsp; I'm <strong>Huynh Nhan Thap</strong> from Vietnam<br/>
+      &nbsp; 🏫 &nbsp; Senior Student at the <a href="https://en.uit.edu.vn">VNU-HCM UIT</a></br>
+      &nbsp; 💻 &nbsp; My major is <strong>Computer Science</strong><br/>
+      &nbsp; 🧩 &nbsp; Interested in Machine Learning, Data Science and Frontend<br/>
       <br/>
       <img alt="c++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
