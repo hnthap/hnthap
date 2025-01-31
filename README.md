@@ -1,7 +1,49 @@
-I'm **Huynh Nhan Thap**, a student of the University of Information Technology, VNU-HCM. My major is **💻 Computer Science**. I'm interested in **Machine Learning**, Data Science, Frontend and Backend Development.
+<table>
+  <tr>
+    <td rowspan="2">
+      <br/>
+      <img alt="Profile view count" src="https://komarev.com/ghpvc/?username=hnthap&color=blue" />
+      <h2> About </h2>
+      &nbsp; 👋 &nbsp; I'm <strong>Huynh Nhan Thap</strong>.<br/>
+      &nbsp; 🏫 &nbsp; Senior Student at the <a href="https://en.uit.edu.vn">VNU-HCM UIT</a>.</br>
+      &nbsp; 💻 &nbsp; My major is <strong>Computer Science</strong>.<br/>
+      &nbsp; 🧩 &nbsp; Interested in Machine Learning, Data Science and Frontend Development.<br/>
+      <br/>
+      <img alt="c++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img alt="pytorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+      <img alt="tensorflow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+      <img alt="opencv" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
+      <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
+      <br/>
+      <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img alt="express" src="https://img.shields.io/badge/-ExpressJS-gray?style=flat-square&logo=Express&logoColor=white" />
+      <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+      <img alt="vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
+      <img alt="netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white" />
+      <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" />
+      <h2> Get in touch </h2>
+      <a href="mailto:huynhnhanthap@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-orange?style=flat-square&logo=Gmail&logoColor=white" />
+      </a>
+      <a href="https://www.linkedin.com/in/huynh-nhan-t-4ab735337/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+      </a>
+      <br/>
+      &nbsp;
+    </td>
+    <td>
+      <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hnthap&layout=compact&show_icons=true&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnthap&layout=compact&show_icons=true&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-See me on [🟦 Kaggle](https://www.kaggle.com/huynhnhanthap) and [🤗 Hugging Face](https://huggingface.co/hnthap)!
-
+<!--
 ## Skills
 
 ### Languages
@@ -33,10 +75,10 @@ See me on [🟦 Kaggle](https://www.kaggle.com/huynhnhanthap) and [🤗 Hugging 
 
 ### Databases & Applications
 
-<!--Databases-->
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-5294E2?style=flat-square&logo=MSSQL&logoColor=white)<!--Backend-->
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-5294E2?style=flat-square&logo=MSSQL&logoColor=white)
+
 ![Nodejs](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=Express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
@@ -48,7 +90,8 @@ See me on [🟦 Kaggle](https://www.kaggle.com/huynhnhanthap) and [🤗 Hugging 
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=Expo&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![github actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)<!--Frontend-->
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
+
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white)
 ![ThreeJS](https://img.shields.io/badge/-ThreeJS-000000?style=flat-square&logo=Three.JS&logoColor=white)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
@@ -74,12 +117,10 @@ See me on [🟦 Kaggle](https://www.kaggle.com/huynhnhanthap) and [🤗 Hugging 
 ![googledrive](https://img.shields.io/badge/-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
 
-## Contribution
+-->
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hnthap&theme=dark&show_icons=true&text_bold=false&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hnthap&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![(profile view count)](https://komarev.com/ghpvc/?username=hnthap&color=blue)
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hnthap&layout=compact&theme=dark&show_icons=true&text_bold=false&hide_border=true) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hnthap&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
 <!---
 hnthap/hnthap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
