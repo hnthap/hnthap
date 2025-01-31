@@ -33,12 +33,16 @@
       &nbsp;
     </td>
     <td>
-      <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hnthap&layout=compact&show_icons=true&hide_border=true" />
+      <a href="https://github.com/hnthap?tab=repositories">
+        <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hnthap&layout=compact&show_icons=true&hide_border=true" />
+      </a>
     </td>
   </tr>
   <tr>
     <td>
-      <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnthap&layout=compact&show_icons=true&hide_border=true" />
+      <a href="https://github.com/hnthap?tab=repositories">
+        <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnthap&layout=compact&show_icons=true&hide_border=true" />
+      </a>
     </td>
   </tr>
 </table>
