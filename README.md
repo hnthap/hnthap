@@ -21,6 +21,12 @@
       <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
       <img alt="vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
       <img alt="netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white" />
+      <br/>
+      <img alt="c# .net" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img alt="java" src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=java&logoColor=white" />
+      <img alt="opencv" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
+      <img alt="streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
+      <img alt="sql" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=SQLite&logoColor=white" />
 <!--       <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" /> -->
       <h2> Get in touch </h2>
       <a href="mailto:huynhnhanthap@gmail.com">
