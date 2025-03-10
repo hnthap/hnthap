@@ -1,58 +1,44 @@
-<table>
-  <tr>
-    <td width="60%" rowspan="3">
-      <h2> About </h2>
-      &nbsp; 👋 &nbsp; I'm <strong>Huynh Nhan Thap</strong> from Vietnam<br/>
-      &nbsp; 🏫 &nbsp; Senior Student at the <a href="https://en.uit.edu.vn">VNU-HCM UIT</a></br>
-      &nbsp; 💻 &nbsp; My major is <strong>Computer Science</strong><br/>
-      &nbsp; 🧩 &nbsp; Interested in Machine Learning, Data Science and Backend<br/>
-      &nbsp; 🌏 &nbsp; Languages: Vietnamese, English<br/>
-      <br/>
-      <img alt="c++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img alt="pytorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
-      <img alt="tensorflow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
-<!--       <img alt="opencv" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" /> -->
-      <img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
-      <br/>
-      <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img alt="express" src="https://img.shields.io/badge/-ExpressJS-gray?style=flat-square&logo=Express&logoColor=white" />
-      <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-      <img alt="vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
-      <img alt="netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white" />
-      <br/>
-      <img alt="c# .net" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img alt="java" src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=java&logoColor=white" />
-      <img alt="opencv" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
-      <img alt="streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
-      <img alt="sql" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=SQLite&logoColor=white" />
-      <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<!--       <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" /> -->
-      <h2> Get in touch </h2>
-      <a href="https://www.linkedin.com/in/huynh-nhan-t-4ab735337/">LinkedIn</a>
-      <br/>
-      &nbsp;
-    </td>
-    <td>
-      <br/>
-      <img alt="Profile view count" src="https://komarev.com/ghpvc/?username=hnthap&color=blue" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/hnthap?tab=repositories">
-        <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hnthap&layout=compact&show_icons=true&hide_border=true&hide_rank=true&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/hnthap?tab=repositories">
-        <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnthap&layout=compact&show_icons=true&hide_border=true&hide=jupyter%20notebook&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+<img alt="Profile view count" src="https://komarev.com/ghpvc/?username=hnthap&color=blue" />
+      
+<h2>About</h2>
+
+&nbsp; 👋 &nbsp; I'm <strong>Huynh Nhan Thap</strong> from Vietnam<br/>
+&nbsp; 🏫 &nbsp; Senior Student at the <a href="https://en.uit.edu.vn">VNU-HCM UIT</a></br>
+&nbsp; 💻 &nbsp; My major is <strong>Computer Science</strong><br/>
+&nbsp; 🧩 &nbsp; Interested in Machine Learning, Data Science and Backend<br/>
+&nbsp; 🌏 &nbsp; Languages: Vietnamese, English<br/>
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+<br/>
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Express](https://img.shields.io/badge/-ExpressJS-gray?style=flat-square&logo=Express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=flat-square&logo=mysql&logoColor=white)
+<br/>
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-007BA7?style=flat-square&logo=jQuery&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
+<br/>
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![C# .NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=java&logoColor=white)
+
+<h2>Stats</h2>
+
+<img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hnthap&layout=compact&show_icons=true&hide_border=true&hide_rank=true&theme=dark" />
+
+<a href="https://github.com/hnthap?tab=repositories">
+  <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnthap&layout=compact&show_icons=true&hide_border=true&hide=jupyter%20notebook&theme=dark" />
+</a>
+
+<h2>Get in touch</h2>
+
+<a href="https://www.linkedin.com/in/huynh-nhan-t-4ab735337/">LinkedIn</a>
 
 <!--
 ## Skills
