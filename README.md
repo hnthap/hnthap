@@ -1,13 +1,12 @@
 <table>
   <tr>
-    <td width="60%" rowspan="2">
-      <br/>
-      <img alt="Profile view count" src="https://komarev.com/ghpvc/?username=hnthap&color=blue" />
+    <td width="60%" rowspan="3">
       <h2> About </h2>
       &nbsp; 👋 &nbsp; I'm <strong>Huynh Nhan Thap</strong> from Vietnam<br/>
       &nbsp; 🏫 &nbsp; Senior Student at the <a href="https://en.uit.edu.vn">VNU-HCM UIT</a></br>
       &nbsp; 💻 &nbsp; My major is <strong>Computer Science</strong><br/>
-      &nbsp; 🧩 &nbsp; Interested in Machine Learning, Data Science and Frontend<br/>
+      &nbsp; 🧩 &nbsp; Interested in Machine Learning, Data Science and Backend<br/>
+      &nbsp; 🌏 &nbsp; Languages: Vietnamese, English<br/>
       <br/>
       <img alt="c++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -27,27 +26,29 @@
       <img alt="opencv" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
       <img alt="streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
       <img alt="sql" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=SQLite&logoColor=white" />
+      <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <!--       <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" /> -->
       <h2> Get in touch </h2>
-      <a href="mailto:huynhnhanthap@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-orange?style=flat-square&logo=Gmail&logoColor=white" />
-      </a>
-      <a href="https://www.linkedin.com/in/huynh-nhan-t-4ab735337/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-      </a>
+      <a href="https://www.linkedin.com/in/huynh-nhan-t-4ab735337/">LinkedIn</a>
       <br/>
       &nbsp;
     </td>
     <td>
+      <br/>
+      <img alt="Profile view count" src="https://komarev.com/ghpvc/?username=hnthap&color=blue" />
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/hnthap?tab=repositories">
-        <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hnthap&layout=compact&show_icons=true&hide_border=true" />
+        <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hnthap&layout=compact&show_icons=true&hide_border=true&hide_rank=true&theme=dark" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/hnthap?tab=repositories">
-        <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnthap&layout=compact&show_icons=true&hide_border=true" />
+        <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnthap&layout=compact&show_icons=true&hide_border=true&hide=jupyter%20notebook&theme=dark" />
       </a>
     </td>
   </tr>
@@ -112,7 +113,6 @@
 
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=VS%20Code&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![pip](https://img.shields.io/badge/-PyPI-3775A9?style=flat-square&logo=PyPI&logoColor=white)
 ![choco](https://img.shields.io/badge/-Chocolatey-80B5E3?style=flat-square&logo=Chocolatey&logoColor=white)
