@@ -1,11 +1,11 @@
 ![Profile view count](https://komarev.com/ghpvc/?username=hnthap&color=blue)
 
 &nbsp; 👋 &nbsp; I'm <strong>Huynh Nhan Thap</strong> from Vietnam<br/>
-&nbsp; 🏫 &nbsp; Senior Student at the <a href="https://en.uit.edu.vn">VNU-HCM UIT</a></br>
+&nbsp; 🏫 &nbsp; Senior Student at the <a target="_blank" href="https://en.uit.edu.vn">VNU-HCM UIT</a></br>
 &nbsp; 💻 &nbsp; My major is <strong>Computer Science</strong><br/>
 &nbsp; 🧩 &nbsp; Interested in AI/ML<br/>
 &nbsp; 🌏 &nbsp; Speaking Vietnamese and English<br/>
-&nbsp; 📑 &nbsp; See more: <a href="https://hnthap.github.io/">Portfolio</a> | <a href="https://www.linkedin.com/in/huynh-nhan-t-4ab735337/">LinkedIn</a><br/>
+&nbsp; 📑 &nbsp; See more: <a target="_blank" href="https://hnthap.github.io/">Portfolio</a> | <a target="_blank" href="https://www.linkedin.com/in/huynh-nhan-t-4ab735337/">LinkedIn</a><br/>
 
 <!--
 <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/><img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" /><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
