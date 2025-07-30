@@ -1,6 +1,6 @@
 ![Profile view count](https://komarev.com/ghpvc/?username=hnthap&color=blue)
 
-&nbsp; 👋 &nbsp; I'm <strong>Huynh Nhan Thap</strong> from Vietnam<br/>
+&nbsp; 👋 &nbsp; I'm <strong>Thap</strong> from Vietnam<br/>
 &nbsp; 🏫 &nbsp; Bachelor of Science in Computer Science at <a target="_blank" href="https://en.uit.edu.vn">VNU-HCM UIT</a></br>
 &nbsp; 💻 &nbsp; My major is <strong>Computer Science</strong><br/>
 &nbsp; 🧩 &nbsp; Interested in AI/ML<br/>
