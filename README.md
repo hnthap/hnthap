@@ -1,5 +1,5 @@
 
-<img align="right" alt="logo" src="logo.png" width="200rem" height="200rem" />
+<img align="right" alt="logo" src="logo_circle.png" width="200rem" height="200rem" />
 
 <img alt="Profile view count" src="https://komarev.com/ghpvc/?username=hnthap&color=blue" /><br />
 <br />
