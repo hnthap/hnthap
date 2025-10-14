@@ -3,7 +3,7 @@
 
 <img alt="Profile view count" src="https://komarev.com/ghpvc/?username=hnthap&color=blue" /><br />
 <br />
-&nbsp; 👋 &nbsp; I'm <strong>Thap</strong> from Vietnam<br />
+&nbsp; 👋 &nbsp; I'm <strong>Thap</strong>, AI Engineer Intern from Vietnam<br />
 &nbsp; 🏫 &nbsp; Computer Science graduate from <a target="_blank" href="https://en.uit.edu.vn">VNU-HCM UIT</a><br />
 &nbsp; 🧩 &nbsp; Interested in AI/ML<br />
 &nbsp; 🌏 &nbsp; Speaking Vietnamese (native) and English (fluent)<br />
